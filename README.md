@@ -4,7 +4,7 @@ Hi 👋 My name is Ali Al-Jabur
 Software Engineer
 -----------------
 
-I am an undergraduate student at Eastern Michigan University studying computer science Alongside that I have been programming for over 5 years and have a deep passion for it. Over the past year, I have continued my passion for programming and focused on improving my skillset. I have aspirations of being a software engineer post-graduation.
+I am an undergraduate student at Eastern Michigan University studying computer science alongside that I have been programming for over 5 years and have a deep passion for it. Over the past year, I have continued my passion for programming and focused on improving my skillset. I have aspirations of being a software engineer post-graduation.
 
 * 🌍  I'm based in Dearborn Heights, Michigan
 * ✉️  You can contact me at [alialjabur24@gmail.com](mailto:alialjabur24@gmail.com)
